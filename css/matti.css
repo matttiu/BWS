@@ -1,0 +1,17 @@
+/* This is a single-line comment
+p {
+}
+*/
+
+.header {
+  background-color:#ce3635;
+  text-align: center;
+  color:#fff;
+  padding-top:10em;
+}
+
+a { color:#fff; text-decoration: none;}
+a, a:hover, a:focus, a:active {
+text-decoration: none;
+color: inherit;
+}
